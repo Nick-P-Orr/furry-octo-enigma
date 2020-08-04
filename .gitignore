@@ -1,0 +1,5 @@
+package-lock.json
+Pipfile
+.env
+.vscode
+node_modules
